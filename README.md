@@ -23,7 +23,7 @@ Used Power BI to create various visualizations, including charts and graphs.
 Implemented basic DAX queries to derive meaningful insights.
 #### Dashboard Creation:
 
-Designed interactive dashboards to display key metrics and trends.
+Designed interactive dashboards to display key metrics and trends using Treemap and Slicers
 #### Key Insights
 Attrition Analysis:
 - By Gender
